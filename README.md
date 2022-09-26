@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodgers Ogada
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C, HTML, CSS.
+- 🌱 I’m currently learning C, HTML, CSS, Python, SQL
 - 💞️ I’m looking to collaborate on projects that touch on the same.
 - 📫 How to reach me ogadarodgers@gmail.com
 
