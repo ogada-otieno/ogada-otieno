@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, and Ruby
 - 💞️ I’m looking to collaborate on projects that touch on the same.
 - 📫 How to reach me ogadarodgers@gmail.com
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ogada-otieno.visitor-badge)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
