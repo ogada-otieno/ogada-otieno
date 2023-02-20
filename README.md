@@ -7,8 +7,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ogada-otieno.visitor-badge)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogada-otieno)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 <!--START_SECTION:waka-->
 
 ```text
