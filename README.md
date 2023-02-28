@@ -10,8 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         34 hrs 59 mins  █████████████████████░░░░   83.42 %
-Other        3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Ruby         33 hrs 12 mins  ████████████████████▒░░░░   81.53 %
+Other        2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
 ```
 
 <!--END_SECTION:waka-->
