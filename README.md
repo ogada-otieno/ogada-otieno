@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Ruby         2 hrs 12 mins   ███████████████████░░░░░░   76.40 %
+YAML         24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Git Config   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
