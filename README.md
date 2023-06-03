@@ -9,12 +9,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogada-otieno)](https://github.com/anuraghazra/github-readme-stats) 
 <!--START_SECTION:waka-->
 
-```text
-Ruby         2 hrs 12 mins   ███████████████████░░░░░░   76.40 %
-YAML         24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Git Config   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```txt
+Ruby         4 hrs 50 mins   ████████████████████░░░░░   80.02 %
+JavaScript   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+YAML         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Git Config   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
