@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodgers Ogada
 - 👀 I’m interested in software development
-- 🌱 On a continuous loop for JavaScript and Ruby, React, Rails, Node.js and ExpressJS.
+- 🌱 On a continuous loop for JavaScript and Ruby, React,React Native, Rails, Node.js and ExpressJS.
 - 💞️ I’m looking to collaborate on projects that touch on the same.
 - 📫 How to reach me ogadarodgers@gmail.com
 
